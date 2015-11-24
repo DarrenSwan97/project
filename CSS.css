@@ -1,0 +1,47 @@
+ body 
+ { background-image: url("image.jpg"); 
+ }
+ #callout
+ {
+	 color:white;
+ }
+#home
+{
+	width:150px;
+	height:60px;
+	
+}
+
+#sign
+{	
+width:150px;
+height:60px;
+
+}
+
+#monthly
+{	
+width:150px;
+height:60px;
+
+}
+
+#cars
+{	
+width:150px;
+height:60px;
+
+}
+
+#location
+{	
+width:150px;
+height:60px;
+
+}
+
+#contact
+{
+	width:150px;
+	height:60px;
+}
